@@ -1,4 +1,4 @@
-🌫️ Air Quality Monitoring System using Arduino & MQ135
+  🌫️ Air Quality Monitoring System using Arduino & MQ135
 
 This project monitors air quality using the MQ135 Gas Sensor and an Arduino Uno. It reads the concentration of gases in the air and displays the output in PPM (Parts Per Million) on the serial monitor, providing real-time air quality assessment.
 
